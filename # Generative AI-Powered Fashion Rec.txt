@@ -1,0 +1,24 @@
+# Generative AI-Powered Fashion Recommendation System
+
+## Live Website
+[Click here to view the live project](https://web-assets--adithi2006.replit.app)
+
+## Project Description
+This project is a web-based system that provides personalized outfit recommendations using Generative AI.
+
+## Features
+- AI outfit generation
+- Visual preview
+- Interactive user form
+- Occasion-based styling
+- Budget filtering
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- Deployment: Replit
+
+## Future Enhancements
+- AR Virtual Try-On
+- E-commerce integration
+- AI Stylist Chatbot
